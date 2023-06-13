@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Full MERN Stack Developer ;
+- 🤔 &nbsp; Frontend Developer; React, React Native ;
 - 🎓 &nbsp; Studying computer science at University of Ibadan ;
 - 🌱 &nbsp; Learing Web3 in deep;
 - ✍️ &nbsp; Learning App and Software Development ;
